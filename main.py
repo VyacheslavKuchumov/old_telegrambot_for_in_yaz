@@ -3,7 +3,7 @@ from telebot import types
 from datetime import datetime
 
 
-BOT_TOKEN="6902495302:AAFWBcQ0Yg3ASxQEpInc5jhDe0qQDaodCgw"
+BOT_TOKEN=""
 
 
 print("starting up....")
